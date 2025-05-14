@@ -4,3 +4,4 @@ scipy
 jupyter
 scikit-learn
 pandas
+tensorflow
